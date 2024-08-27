@@ -1,0 +1,8 @@
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.csproj.AssemblyReference.cache
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.AssemblyInfoInputs.cache
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.AssemblyInfo.cs
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.csproj.CoreCompileInputs.cache
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/ruby.romeu@postman.com/Desktop/sampleDotNetAPI/obj/Debug/net8.0/sampleDotNetAPI.sourcelink.json
